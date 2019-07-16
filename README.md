@@ -1,4 +1,7 @@
 # Angular Seed TypeScript
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/basarat/angular-seed-ts.svg)](https://greenkeeper.io/)
+
 This is based on https://github.com/angular/angular-seed.
 
 ## Running
